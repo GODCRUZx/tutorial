@@ -40,7 +40,7 @@ nav a {
   background-color: #5f4dee;
   padding-top: 10rem;
   display: grid;
-  grid-template-columns: 45% 1fr;
+  grid-template-columns: 60% 1fr;
 }
 .text h1 {
   font-size: 4rem;
@@ -59,7 +59,12 @@ nav a {
   padding-left: 4rem;
   padding-top: 1rem;
 }
-.image {
-  height: 2rem;
-  width: 1rem;
+/*.image {
+  height: 0.5rem;
+  width: 0.5rem;
+}*/
+
+img {
+  height: 20rem;
+  width: 25rem;
 }
